@@ -1,0 +1,14 @@
+.button_click1 {
+  background-color: black;
+  color: rgba(255, 255, 255, 0.91);
+}
+
+.button_click2 {
+  background-color: #ffff00;
+}
+
+.button_click1,
+.button_click2 {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
